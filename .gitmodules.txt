@@ -1,0 +1,6 @@
+[submodule "backend"]
+    path = backend
+    url = https://github.com/JesusVaPa/grocery-app-backend.git
+[submodule "client"]
+    path = client
+    url = https://github.com/JesusVaPa/grocery-app-client.git
